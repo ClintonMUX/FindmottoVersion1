@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363255557839",
+    "project_id": "findmotto-44f7e",
+    "storage_bucket": "findmotto-44f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363255557839:android:bc1cfcb5295a74c1b691ba",
+        "android_client_info": {
+          "package_name": "com.example.findmotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363255557839-2uio12ukfu6j1tvl4m2mqlsoqnr6fd04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Nt4EwVw1c2t7DUXBY-hv7biJmbiUBz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363255557839-2uio12ukfu6j1tvl4m2mqlsoqnr6fd04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
